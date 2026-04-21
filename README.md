@@ -1,6 +1,6 @@
 # Predictive-Marketing-Dashboard
 Predictive Marketing Dashboard using python and tableau
-This project presents an end-to-end Predictive MArketing Dashboard built using Tableau and Python.
+This project presents an end-to-end Predictive Marketing Dashboard built using Tableau and Python.
 It combines data visualization, business KPIs, and machine learning to analyze customer behavior and optimize marketing campaign strategies.
 The dashboard enables users to:
 Track key marketing KPIs
